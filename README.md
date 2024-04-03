@@ -17,6 +17,10 @@
 
 - ⚡ Fun fact **Always sleepy but still manages to learn new things :D**
 
+- ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@sharmanaresh272/30-nites-of-code)  
+  ![@sharmanaresh272 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sharmanaresh272)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sharmanaresh272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharmanaresh272" height="30" width="40" /></a>
